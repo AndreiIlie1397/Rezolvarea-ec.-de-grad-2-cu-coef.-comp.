@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1492939397 source:c:\users\andrei\desktop\complex\main.cpp
+	"complex.h"
+	<iostream>
+
+1492872445 c:\users\andrei\desktop\complex\include\complex.h
+	<iostream>
+
+1492939641 source:c:\users\andrei\desktop\complex\src\complex.cpp
+	"complex.h"
+	<math.h>
+
+1495557654 source:c:\users\andrei\desktop\ilieconstantinandrei\anul 1 - semestrul 2\programare orientata pe obiecte\complex\main.cpp
+	"complex.h"
+	<iostream>
+
+1494164145 c:\users\andrei\desktop\ilieconstantinandrei\anul 1 - semestrul 2\programare orientata pe obiecte\complex\include\complex.h
+	<iostream>
+
+1495558531 source:c:\users\andrei\desktop\ilieconstantinandrei\anul 1 - semestrul 2\programare orientata pe obiecte\complex\src\complex.cpp
+	"complex.h"
+	<math.h>
+
+1495561254 source:c:\users\andrei.desktop-4nj2lrv\desktop\ilieconstantinandrei\anul 1 - semestrul 2\programare orientata pe obiecte\complex\main.cpp
+	"complex.h"
+	<iostream>
+
+1494167745 c:\users\andrei.desktop-4nj2lrv\desktop\ilieconstantinandrei\anul 1 - semestrul 2\programare orientata pe obiecte\complex\include\complex.h
+	<iostream>
+
+1495562131 source:c:\users\andrei.desktop-4nj2lrv\desktop\ilieconstantinandrei\anul 1 - semestrul 2\programare orientata pe obiecte\complex\src\complex.cpp
+	"complex.h"
+	<math.h>
+
